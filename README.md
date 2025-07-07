@@ -16,7 +16,7 @@ Este repositório reúne uma coleção aberta de prompts prontos para uso com mo
 
 ## Licença
 
-Este projeto está sob a licença [MIT License](https://choosealicense.com/licenses/mit/)).
+Este projeto está sob a licença [MIT License](https://choosealicense.com/licenses/mit/).
 
 ## Inspiração
 
